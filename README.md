@@ -10,6 +10,7 @@ In the telecommunications market where customer retention is extremely important
 * Python
 
 <br />
+
 ## **Models and Techniques**
 * Logistic Regression
 * Random Forest
